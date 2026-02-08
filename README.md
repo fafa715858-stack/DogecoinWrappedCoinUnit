@@ -1,0 +1,2 @@
+# DogecoinWrappedCoinUnit
+DWCU
